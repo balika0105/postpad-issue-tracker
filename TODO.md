@@ -1,11 +1,8 @@
 # To-do List
-- Add formatted posting feature with Quill
 - Liking posts
 - Reblogging posts
     - Standalone reblog
     - Quote reblog
-- Share button
-    - Copy post URL to clipboard in *some way*
 - *Post flairing*: This should allow users to filter what type of content is shown on their feed
 - Public announcement box
     - Between the posting box and the post list on the home page
@@ -18,3 +15,11 @@
 ## Microservice for real-time events
 - Direct Messaging
 - Notifications
+
+# DONE
+- Share button
+    - Copy post URL to clipboard in *some way*
+    - Currently no alert on desktop, will update in the future
+
+- Add formatted posting feature with Quill
+    - Basic implementation, will work a bit more on it later
